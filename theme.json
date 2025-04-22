@@ -1,9 +1,9 @@
 {
-  "name": "Kotikovtheme",
-  "description": "Based on Purpdark V3, by @vve1",
+  "name": "Kotikovtheme-edit",
+  "description": "Based on kotikovtheme by @kotikov",
   "authors": [
     {
-      "name": "@kotru21"
+      "name": "@zydra_zy"
     }
   ],
   "semanticColors": {
