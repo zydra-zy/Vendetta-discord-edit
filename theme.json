@@ -68,7 +68,10 @@
     "WHITE_500": "#E7C4FF",
     "YELLOW_300": "#B569E0",
     "GREEN_360": "#B569E0",
-    "RED_400": "#FC0E61"
+    "RED_400": "#FC0E61",
+
+    "PLUM_20": "0A0A0A",
+    "PLUM_21": "0A0A0A"
   },
   "spec": 2,
   "background": {
