@@ -1,6 +1,6 @@
 {
   "name": "Kotikovtheme-edit",
-  "description": "Based on kotikovtheme by @kotikov",
+  "description": "Based on kotikovtheme by @kotru21",
   "authors": [
     {
       "name": "@zydra_zy"
@@ -69,7 +69,7 @@
   "spec": 2,
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/kotru21/Vendetta-discord-theme/main/theme_BG/background.jpg",
+    "url": "https://raw.githubusercontent.com/zydra-zy/Vendetta-discord-edit/main/theme_BG/background.jpg",
     "alpha": 0.9,
     "color": "#0A0A0A"
   }
