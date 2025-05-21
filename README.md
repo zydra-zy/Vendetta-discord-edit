@@ -1,5 +1,5 @@
 <h1>Kotikovtheme-edit</h1>
-Fork of a Just purple theme for bunny discord client.
+Fork of a Just purple theme for ~~bunny~~ revenge discord client.
 
 Click here to copy theme link:
 ```
